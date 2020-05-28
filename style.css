@@ -20,7 +20,7 @@ nav ul {
   min-height: 1vh;
   padding: 2rem;
   background: rgba(171, 164, 164, 0.22);
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.5rem;
   width: 100%;
   position: fixed;
@@ -54,7 +54,7 @@ nav li {
   text-align: center;
   margin: 0rem;
   color: white;
-  font-family: Julietta Messie;
+  font-family: 'Dancing Script', cursive;
   font-size: 10rem;
   padding: 1rem 3rem;
   font-weight: normal;
@@ -65,7 +65,7 @@ nav li {
   padding: 1rem 2rem;
   background: none;
   border: none;
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   stroke: none;
   cursor: pointer;
   color: white;
@@ -97,7 +97,7 @@ button:hover {
   flex-direction: column;
   align-items: center;
   justify-items: center;
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
 }
 
 .intro-text h1 {
@@ -109,7 +109,7 @@ button:hover {
   flex-wrap: wrap;
   padding: 2rem;
   background: rgb(214, 214, 214);
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 4rem;
   color: black;
   letter-spacing: 2rem;
@@ -147,7 +147,7 @@ button:hover {
   flex-wrap: wrap;
   padding: 2rem;
   background: rgb(214, 214, 214);
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 4rem;
   color: black;
   letter-spacing: 2rem;
@@ -166,7 +166,7 @@ button:hover {
   text-align: center;
   margin: 0rem;
   color: black;
-  font-family: poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 3rem;
   font-weight: normal;
   padding: 0em;
@@ -241,7 +241,7 @@ span.fade {
     text-align: center;
     margin: 0rem;
     color: white;
-    font-family: Julietta Messie;
+    font-family: 'Dancing Script', cursive;
     font-size: 7rem;
     padding: 1rem 5rem;
     font-weight: normal;
@@ -254,7 +254,7 @@ span.fade {
     text-align: center;
     margin: 0rem;
     color: white;
-    font-family: Julietta Messie;
+    font-family: 'Dancing Script', cursive;
     font-size: 5rem;
     padding: 1rem 3rem;
     font-weight: normal;
